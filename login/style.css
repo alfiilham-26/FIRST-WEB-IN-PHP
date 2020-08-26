@@ -1,0 +1,67 @@
+*{
+    padding: o;
+    margin: o;
+}
+body{
+    overflow-x: hidden;
+    background-color: grey;
+}
+#tabel{
+    margin-top: 100px;
+    width: 20%;
+    height: 50%;
+    font-family: Times;
+    font-size: 30px;
+    background-color: white;
+    text-align: center;
+}
+#login{
+    font-size: 50px;
+    font-family: 'Lucida Sans';
+    text-align:center;
+    width: 10cm;
+}
+#input{
+    width: 10cm;
+    height: 7mm;
+    font-family: 'Lucida Sans';
+    font-size: 100%;
+}
+#input-pw{
+    width: 10cm;
+    height: 7mm;
+    font-family: 'Lucida Sans';
+}
+#input_nama{
+    width:50px;
+    font-family: 'Lucida Sans';
+    text-align: left;
+    font-size: 20px;
+    block-size: 1mm;
+}
+#tombol_login:hover{
+color:grey;
+}
+#tombol_login{
+    text-align : center;
+    width: 20%;
+    height: 30%;
+}
+body{
+    background-color:white;
+    position: unset;
+}
+.judul{
+	background: #87D1D8;
+	padding: 10px;
+    text-align: center;
+    width: 100%;
+    margin-top: auto;
+    padding:1%;
+}
+#pp{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-size: 10%;
+}
